@@ -1,0 +1,8 @@
+ignore/
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+*.pkl
+*.csv
+*.hdf5
